@@ -144,9 +144,6 @@
 
 // 驱动器 (可选)
 "drives": [
-  {"name":"aList","server":"http://alist.lan:8000/dav/","userName":"****","password":"****","type":"webdav"}, 
-  {"name":"DSM","server":"http://dsm.lan:5000","userName":"****","password":"****","type":"webdav"},
-  {"name":"ali-WebDAV-App","server":"http://127.0.0.1:8080/","userName":"admin","password":"admin","type":"webdav"},
           {
             "name": "本机115",
             "server": "http://localhost:2023",
