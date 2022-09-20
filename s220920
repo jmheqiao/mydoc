@@ -145,6 +145,17 @@
 // 驱动器 (可选)
 "drives": [
   
+  
+        {
+            "name": "本机115",
+            "server": "http//:127.0.0.1:2023",
+            "type": "alist"
+        },  
+        {
+            "name": "自家alist15",
+            "server": "https://192.168.2.15:5244",
+            "type": "alist"
+        },
         {
             "name": "🔮嗨翻",
             "server": "https://pan.hikerfans.com",
@@ -270,6 +281,12 @@
             "server": "https://g.xiang.lol",
             "type": "alist"
         }  
+        {
+            "name": "🚑Puppet Studio",
+            "server": "https://www.kugutsu.ml/",
+            "type": "alist"
+        },
+        
 
 ],
 
