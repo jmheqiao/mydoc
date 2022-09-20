@@ -145,11 +145,12 @@
 // 驱动器 (可选)
 "drives": [
   
-  
         {
             "name": "本机115",
-            "server": "http://127.0.0.1:2023",
-            "type": "alist"
+            "server": "http://localhost:2023",
+            "userName":"user",
+            "password":"123456",
+            "type": "webdav"
         },  
         {
             "name": "自家alist15",
