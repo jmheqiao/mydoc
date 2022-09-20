@@ -148,7 +148,7 @@
   
         {
             "name": "本机115",
-            "server": "http//:127.0.0.1:2023",
+            "server": "http://127.0.0.1:2023",
             "type": "alist"
         },  
         {
@@ -280,12 +280,12 @@
             "name": "🎢轻弹浅唱",
             "server": "https://g.xiang.lol",
             "type": "alist"
-        }  
+        },  
         {
             "name": "🚑Puppet Studio",
             "server": "https://www.kugutsu.ml/",
             "type": "alist"
-        },
+        }  
         
 
 ],
